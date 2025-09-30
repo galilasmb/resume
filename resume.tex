@@ -1,0 +1,63 @@
+\documentclass[letter,10pt]{article}
+\usepackage[utf8]{inputenc}
+
+%====================
+% File:         resume.tex
+% Editor:       https://github.com/TimmyChan 
+%               https://www.linkedin.com/in/timmy-l-chan/
+% Last Updated: Jan 7th, 2022
+% Notes:        All formatting is done in TLCresume.sty
+%               No need to touch that file. 
+%               All actual content is in the sections/ folder.
+%====================
+
+\usepackage{TLCresume}
+
+%====================
+% CONTACT INFORMATION
+%====================
+\def\name{Galileu Santos} % Name Here
+\def\phone{+55 (79) 9 9969-7389}
+\def\city{Recife, Brazil}
+\def\email{galilasmb@gmail.com}
+\def\LinkedIn{galileu-santos-36035b95} % linkedin.com/in/______
+\def\github{galilasmb} % github username
+
+%\def\role{Computer Vision Engineer} % JOB TITLE
+%\def\role{Data Scientist} % JOB TITLE
+%\def\role{Applied Scientist} % JOB TITLE
+%\def\role{Machine Learning Software Engineer} % JOB TITLE
+%\def\role{Research Engineer} % JOB TITLE
+%\def\role{Data \& Software Engineer} % JOB TITLE
+%\def\role{Solutions Engineer} % JOB TITLE
+%\def\role{AI Engineer} % JOB TITLE
+%\def\role{Research Scientist} % JOB TITLE
+%\def\role{Machine Learning Researcher} % JOB TITLE
+\def\role{Software Engineer} % JOB TITLE
+
+\input{_header}
+\begin{document}
+
+\section{About Me}
+\input{sections/objective}
+
+\section{Education}
+\input{sections/education}
+
+\section{Work Experience}
+\input{sections/experience}
+
+% \section{Recent Relevant Publications}
+% \input{sections/relevant_publications}
+
+\section{Grants and Awards}
+\input{sections/activities}
+
+% \section{Personal Projects}
+% \input{sections/projects}
+
+\section{Technical Skills}
+\input{sections/skills}
+
+
+\end{document}
