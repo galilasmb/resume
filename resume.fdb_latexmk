@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1759241070.06198 "/Users/galileusantos/Documents/Currículo/resume/resume.tex" "resume.pdf" "resume" 1759241071.14218 0
-  "/Users/galileusantos/Documents/Currículo/resume/resume.tex" 1759241044.40154 1709 f1b110c70cd758c2fc3509c5e65c500f ""
+["pdflatex"] 1759243545.85885 "/Users/galileusantos/Documents/Currículo/resume/resume.tex" "resume.pdf" "resume" 1759243546.83823 0
+  "/Users/galileusantos/Documents/Currículo/resume/resume.tex" 1759243484.34481 1709 f1b110c70cd758c2fc3509c5e65c500f ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/sourcesanspro/a_4jropk.enc" 1587936753 3267 177411e539fcc6ace86309ff03b22da6 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc" 1587936753 3344 37c976a8b2fa4b8f132a488735054f7d ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc" 1587936753 3021 665788e9679767ade2a71155215d25e0 ""
@@ -126,12 +126,12 @@
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
   "TLCresume.sty" 1759245448 1672 04da0195124c448e6e2be430078212f1 ""
   "_header.tex" 1759236020.7887 889 de5daa6a0b92d3c84207856f9120d5f1 ""
-  "resume.aux" 1759241071.00473 2625 301537c4936838dd1af37bc37b73ff6e "pdflatex"
-  "resume.out" 1759241071.00573 3904 c4aef918637ca818d891dd91f2d3dd20 "pdflatex"
-  "resume.tex" 1759241044.40154 1709 f1b110c70cd758c2fc3509c5e65c500f ""
+  "resume.aux" 1759243546.70537 2464 a3c16da00e5d50da1118cfe0e0b3fd03 "pdflatex"
+  "resume.out" 1759243546.7065 3604 ad46c9e3f71feeb91905a20548d941ef "pdflatex"
+  "resume.tex" 1759243484.34481 1709 f1b110c70cd758c2fc3509c5e65c500f ""
   "sections/activities.tex" 1759238492.30517 615 721a035bc6fae316631b6445d9817653 ""
   "sections/education.tex" 1759239961.09294 831 6e022d3013e6530ba9f20e1f8b2a837f ""
-  "sections/experience.tex" 1759240191.96594 5767 4cdb44a7d7d5a38a408d95ff48636fd1 ""
+  "sections/experience.tex" 1759243543.59155 5214 b085704c9740da9cbd8527fb9b97ad1d ""
   "sections/objective.tex" 1759240817.10418 986 e7d254f345b5db3fdfe56fd0a3578ee3 ""
   "sections/skills.tex" 1759241067.5709 527 1e947898b07910a3a6172629fbab30e4 ""
   (generated)

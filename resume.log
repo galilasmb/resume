@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.7.3)  30 SEP 2025 11:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.7.3)  30 SEP 2025 11:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -645,36 +645,36 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 44.
+(hyperref)                removing `\hfill' on input line 43.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 54.
+(hyperref)                removing `\hfill' on input line 55.
 
 
 
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 62.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 64.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 29.86pt on input line 62.
+(Font)              scaled to size 29.86pt on input line 64.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/sb/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/semibold/n' on input line 62.
+(Font)              `T1/SourceSansPro-TLF/semibold/n' on input line 64.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/semibold/n' will be
-(Font)              scaled to size 29.86pt on input line 62.
+(Font)              scaled to size 29.86pt on input line 64.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 62.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 64.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 14.4pt on input line 62.
+(Font)              scaled to size 14.4pt on input line 64.
 [1{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc}
 
 {/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/sourcesanspro/a_4jropk.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc}]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 67.
+(hyperref)                removing `\hfill' on input line 69.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 79.
+(hyperref)                removing `\hfill' on input line 80.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -682,15 +682,11 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 100.
+(hyperref)                removing `\hfill' on input line 99.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 109.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 118.
+(hyperref)                removing `\hfill' on input line 108.
 
 ) (./sections/activities.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -710,21 +706,21 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: C4AEF918637CA818D891DD91F2D3DD20;3904.
+(rerunfilecheck)             Checksum: AD46C9E3F71FEEB91905A20548D941EF;3604.
  ) 
 Here is how much of TeX's memory you used:
- 14762 strings out of 473190
- 244749 string characters out of 5715801
- 694635 words of memory out of 5000000
- 37739 multiletter control sequences out of 15000+600000
+ 14760 strings out of 473190
+ 244717 string characters out of 5715801
+ 695635 words of memory out of 5000000
+ 37738 multiletter control sequences out of 15000+600000
  645714 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  140i,11n,135p,933b,589s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Semibold.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-SemiboldIt.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb>
-Output written on resume.pdf (2 pages, 237171 bytes).
+Output written on resume.pdf (2 pages, 236787 bytes).
 PDF statistics:
- 127 PDF objects out of 1000 (max. 8388607)
- 109 compressed objects within 2 object streams
- 18 named destinations out of 1000 (max. 500000)
- 129 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 123 PDF objects out of 1000 (max. 8388607)
+ 105 compressed objects within 2 object streams
+ 17 named destinations out of 1000 (max. 500000)
+ 121 words of extra memory for PDF output out of 10000 (max. 10000000)
 
