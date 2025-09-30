@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1759243545.85885 "/Users/galileusantos/Documents/Currículo/resume/resume.tex" "resume.pdf" "resume" 1759243546.83823 0
+["pdflatex"] 1759260098.94814 "/Users/galileusantos/Documents/Currículo/resume/resume.tex" "resume.pdf" "resume" 1759260099.91925 0
   "/Users/galileusantos/Documents/Currículo/resume/resume.tex" 1759243484.34481 1709 f1b110c70cd758c2fc3509c5e65c500f ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/sourcesanspro/a_4jropk.enc" 1587936753 3267 177411e539fcc6ace86309ff03b22da6 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc" 1587936753 3344 37c976a8b2fa4b8f132a488735054f7d ""
@@ -126,12 +126,12 @@
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
   "TLCresume.sty" 1759245448 1672 04da0195124c448e6e2be430078212f1 ""
   "_header.tex" 1759236020.7887 889 de5daa6a0b92d3c84207856f9120d5f1 ""
-  "resume.aux" 1759243546.70537 2464 a3c16da00e5d50da1118cfe0e0b3fd03 "pdflatex"
-  "resume.out" 1759243546.7065 3604 ad46c9e3f71feeb91905a20548d941ef "pdflatex"
+  "resume.aux" 1759260099.78842 2476 16199da05e1ddc64a06dbb22be47691a "pdflatex"
+  "resume.out" 1759260099.78948 3664 b898992cfc7cd1b6dc7db84b60fc7d03 "pdflatex"
   "resume.tex" 1759243484.34481 1709 f1b110c70cd758c2fc3509c5e65c500f ""
-  "sections/activities.tex" 1759238492.30517 615 721a035bc6fae316631b6445d9817653 ""
-  "sections/education.tex" 1759239961.09294 831 6e022d3013e6530ba9f20e1f8b2a837f ""
-  "sections/experience.tex" 1759243543.59155 5214 b085704c9740da9cbd8527fb9b97ad1d ""
+  "sections/activities.tex" 1759260094.74555 643 ddba4e2ea1b96751a4aa1152d2185009 ""
+  "sections/education.tex" 1759259702.91393 858 3c688dc8a64740d341885b9194c78112 ""
+  "sections/experience.tex" 1759259509.34551 5216 e58190cf3cf343285cf2536016a044c9 ""
   "sections/objective.tex" 1759240817.10418 986 e7d254f345b5db3fdfe56fd0a3578ee3 ""
   "sections/skills.tex" 1759241067.5709 527 1e947898b07910a3a6172629fbab30e4 ""
   (generated)
